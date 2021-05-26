@@ -1,0 +1,4 @@
+credentials.json
+/react_auth/node_modules
+__pycache__
+configuration.json

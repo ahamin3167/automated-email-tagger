@@ -1,0 +1,23 @@
+.sidebar {
+  display: flex;
+  margin: 10px;
+  align-items: center;
+  padding: 0 10px;
+  justify-content: center;
+}
+
+#MinLength {
+  margin: 10px;
+}
+
+#MaxLength {
+  margin: 10px;
+}
+
+#StartDate {
+  margin: 10px;
+}
+
+#EndDate {
+  margin: 10px;
+}
